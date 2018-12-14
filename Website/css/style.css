@@ -128,10 +128,11 @@ header a:hover{
 
 #showcase{
   min-height: 450px;
-  background: url("../images/stylter2.jpg") no-repeat -100px -150px;
+  min-width : 450px;
+  background: url("../images/stylter2.jpg") no-repeat;
   text-align: center;
   color:#fff;
-  margin:0px;
+  background-size: cover;
 }
 
 
